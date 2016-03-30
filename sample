@@ -1,2 +1,6 @@
 #include <iostream>
+<<<<<<< HEAD
 using namespace std;
+=======
+using c and c++
+>>>>>>> 429e7a9dad82dca535ac129975c52d69b62f7986
